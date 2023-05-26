@@ -1,5 +1,5 @@
 <?php
         echo "dsvuh";
         echo "slmoj";
-        echo "nseks";
+        echo "lkcov";
 ?>
